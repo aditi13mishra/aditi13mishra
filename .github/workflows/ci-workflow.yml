@@ -14,7 +14,7 @@ jobs:
 
       - name: Print success message
         run: echo "Workflow executed successfully"
-  GNU nano 8.3                                                                            .github/workflows/ci-workflow.yml
+ 
 
 
 
